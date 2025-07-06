@@ -1,6 +1,6 @@
 (function () {
   const iframe = document.createElement('iframe');
-  iframe.src = "https://your-vercel-url.vercel.app/chatbot.html"; // Replace with actual URL
+  iframe.src = "https://aliharake.pro"; // Replace with actual URL
   iframe.style = `
     position: fixed;
     bottom: 20px;
